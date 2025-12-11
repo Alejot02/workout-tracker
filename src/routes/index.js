@@ -1,21 +1,8 @@
-const express  =require('express');
-const router = express.Router();
+const express = require('express');
+const app = require('./src/app');
+const port = process.env.PORT || 3000;
 
-// Importar versiones de rutas
-const v1Routes = require('./v1');
 
-// Configurar rutas versionadas
-router.use('/v1', v1Routes)
-
-// Ruta base para la informacion de la API
-router.get('/', (req, res) => {
-  res.json({
-    message: 'Workout Tracker API',
-    versions: ['v1'],
-    endpoints: {
-      v1: '/api/v1'
-    }
-  })
+app.listen(port, () => {
+console.log(`Server running: http://localhost:${port}`);
 });
-
-module.exports = router;
