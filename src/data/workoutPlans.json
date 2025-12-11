@@ -1,0 +1,28 @@
+[
+{
+"id": "a0f8d492-2792-49b4-8af3-70a09e5dc342",
+"userId": "b42f53fa-7b30-4b91-8d36-dc1c6ef27611",
+"title": "Rutina de Tren Superior",
+"description": "Plan enfocado en pecho, espalda y hombros.",
+"createdAt": "2025-09-12T14:00:00Z",
+"updatedAt": "2025-09-13T09:30:00Z",
+"exercises": [
+{
+"exerciseId": "d09f3bb4-35b6-4a7b-b5a1-09f01d3a28bc",
+"name": "Sentadilla",
+"sets": 4,
+"reps": 10,
+"weight": 70,
+"notes": "Aumentar peso progresivamente"
+},
+{
+"exerciseId": "2a1f3bb4-33c6-1c7a-b5a1-99f01d3a45fg",
+"name": "Press de banca",
+"sets": 3,
+"reps": 12,
+"weight": 60,
+"notes": ""
+}
+]
+}
+]
