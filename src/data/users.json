@@ -1,16 +1,30 @@
 [
-{
-"id": "b42f53fa-7b30-4b91-8d36-dc1c6ef27611",
-"name": "Carlos Navia",
-"email": "carlos@example.com",
-"role": "user",
-"createdAt": "2025-09-12T12:00:00Z"
-},
-{
-"id": "a42f53fa-7b30-4b91-8d36-dc1c6ef27611",
-"name": "Ana Perez",
-"email": "ana@example.com",
-"role": "admin",
-"createdAt": "2025-09-12T12:00:00Z"
-}
+  {
+    "id": "b42f53fa-7b30-4b91-8d36-dc1c6ef27611",
+    "name": "Carlos Navia",
+    "email": "carlos@example.com",
+    "role": "user",
+    "createdAt": "2025-09-12T12:00:00Z"
+  },
+  {
+    "id": "a42f53fa-7b30-4b91-8d36-dc1c6ef27611",
+    "name": "Ana Perez",
+    "email": "ana@example.com",
+    "role": "admin",
+    "createdAt": "2025-09-12T12:00:00Z"
+  },
+  {
+    "id": "67905120-dcab-41e4-869d-5a8569f2ed09",
+    "name": "Carlos Mendoza",
+    "email": "carlos@example.com",
+    "age": 28,
+    "createdAt": "2025-12-12T01:15:47.970Z"
+  },
+  {
+    "id": "b76fa625-a9f9-48f5-8c7f-94d94aefd1c2",
+    "name": "Carlos ad",
+    "email": "carlos@example.com",
+    "age": 28,
+    "createdAt": "2025-12-12T03:19:45.041Z"
+  }
 ]
