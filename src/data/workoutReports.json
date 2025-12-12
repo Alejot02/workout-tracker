@@ -1,0 +1,15 @@
+[
+{
+"id": "f3b935a0-1d9d-4f98-bd39-5cb3c28b98ed",
+"userId": "b42f53fa-7b30-4b91-8d36-dc1c6ef27611",
+"period": "Septiembre 2025",
+"summary": "Has completado 12 entrenamientos con un total de 10,500 kg levantados.",
+"stats": {
+"totalWorkouts": 12,
+"totalWeightLifted": 10500,
+"averageRepsPerWorkout": 112,
+"mostTrainedMuscleGroup": "chest"
+},
+"generatedAt": "2025-09-30T20:00:00Z"
+}
+]
